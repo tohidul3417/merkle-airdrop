@@ -1,6 +1,6 @@
 # Merkle Airdrop
 
-[![CI](https://github.com/tohidul3417/merkle-airdrop/actions/workflows/test.yml/badge.svg)](https://github.com/tohidul3417/ccip-rebase-token/actions/workflows/test.yml)
+[![CI](https://github.com/tohidul3417/merkle-airdrop/actions/workflows/test.yml/badge.svg)](https://github.com/tohidul3417/merkle-airdrop/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is a Foundry-based implementation of a gas-efficient and secure airdrop system using Merkle proofs. It allows for a large number of addresses to be included in an airdrop while minimizing the on-chain data storage and verification costs. The core of this project is to prove that a specific user is eligible for an airdrop without storing the entire list of eligible users on-chain. This repository was created as part of the "Airdrop and Signatures" section of the Advanced Foundry course offered by Cyfrin Updraft.
